@@ -244,4 +244,4 @@ Risk categories use a separate purple palette so that risk and application statu
 ## Author
 
 **Mahsa Kazempour**  
-Data Analysis and Power BI
+Data Analyst
